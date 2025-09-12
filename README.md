@@ -9,11 +9,11 @@
 git clone https://github.com/CLHiin/python-game.git
 cd python-game
 ```
-方式 B: 下載 ZIP → 解壓縮 → 進入資料夾
+- 方式 B: 下載 ZIP → 解壓縮 → 進入資料夾
 
 ### 2.前置安裝
-步驟A: 安裝python
-步驟B: 前往cmd安裝pygame插件
+- 步驟A: 安裝python
+- 步驟B: 前往cmd安裝pygame插件
 ```cmd
 python -m pip install --upgrade pip
 python -m pip install pygame
