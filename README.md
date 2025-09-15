@@ -25,5 +25,5 @@ python -m pip install pygame
 象棋: 上下左右(可wasd)選擇棋子，使用K確認
 
 ## 4.遊戲畫面
-![alt text](image1.png)
-![alt text](image2.png)
+![alt text](說明圖片/image1.png)
+![alt text](說明圖片/image2.png)
